@@ -1,3 +1,4 @@
 # HTML-devi-2
 HTML ödevi-2
-patika.dev
+<br>
+<a href="https://patika.dev">kodluyoruz</a>
